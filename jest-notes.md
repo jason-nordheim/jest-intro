@@ -10,3 +10,4 @@ npm init -y
 
 
 ## Install Jest 
+Execute the following command (in the root of the project directory)
